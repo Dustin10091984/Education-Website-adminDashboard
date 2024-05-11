@@ -1,0 +1,40 @@
+.ck-content ol {
+  list-style-type: decimal;
+  margin-left: 1em;
+}
+
+.ck-content ul {
+  list-style-type: disc;
+  margin-left: 1em;
+}
+
+.ck-content li {
+  display: list-item;
+}
+.ck-content h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.ck-content h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.ck-content h3 {
+  font-size: 1.17em;
+  font-weight: bold;
+}
+/* Add these styles if you are not using a framework that already defines them */
+.text-left {
+  text-align: left;
+}
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+.text-justify {
+  text-align: justify;
+}
